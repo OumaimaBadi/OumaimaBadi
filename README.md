@@ -33,7 +33,9 @@ As a driven and ambitious Master's student, I am passionate about leveraging my 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OumaimaBadi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/oumaima-badi-837060237//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ouma_sgi//)  
 
-:telephone_receiver:+ 212 6 39 15 33 74
+:telephone_receiver: + 212 6 39 15 33 74
+
+:email: badioumaima11@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OumaimaBadi&show_icons=true)  
 
